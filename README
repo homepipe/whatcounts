@@ -1,6 +1,12 @@
 = whatcounts
 
-This gem allows you full use of the WhatCounts HTTP API.
+This gem allows you full use of the WhatCounts HTTP API. For more information about WhatCounts, visit:
+
+http://www.whatcounts.com/
+
+This gem was developed by HomePipe Networks, the leading provider of anywhere, anytime access to your content:
+
+http://www.homepipe.net/
 
 == Contributing to whatcounts
  
@@ -14,6 +20,10 @@ This gem allows you full use of the WhatCounts HTTP API.
 
 == Copyright
 
-Copyright (c) 2011 Lucia Huntting. See LICENSE.txt for
-further details.
+Copyright (c) 2011 HomePipe Networks Inc.
+Copyright (c) 2011 Lucia Huntting. 
+
+== License
+
+See LICENSE.txt for further details.
 
